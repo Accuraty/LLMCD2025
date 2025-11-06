@@ -1,6 +1,6 @@
 export const menuMain = [
     {
-        name: "Home",
+        name: "Welcome",
         url: "/",
         highlighted: false,
     },
